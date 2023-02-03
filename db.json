@@ -1,18 +1,31 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "firstname": "aman",
+      "lastname": "singh",
+      "birthdate": "2023-02-07",
+      "gender": "m",
+      "education": "diploma",
+      "company": "dsfs",
+      "jobExperience": 1,
+      "salary": 12,
+      "profile": "Profile-01.jpg",
+      "id": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "firstname": "amiti",
+      "lastname": "dfsf",
+      "birthdate": "2023-02-16",
+      "gender": "m",
+      "education": "graduate",
+      "company": "sdf",
+      "jobExperience": 1,
+      "salary": 32,
+      "profile": "Profile-06.jpg",
+      "id": 2
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
